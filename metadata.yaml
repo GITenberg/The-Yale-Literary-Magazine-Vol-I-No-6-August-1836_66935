@@ -1,11 +1,16 @@
 _repo: The-Yale-Literary-Magazine-Vol-I-No-6-August-1836_66935
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66935-h/images/cover.jpg
 creator:
   author:
     agent_name: Yale, Students of
     gutenberg_agent_id: '54037'
     url: http://www.gutenberg.org/2009/agents/54037
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66935#The-Yale-Literary-Magazine-Vol-I-No-6-August-1836
 gutenberg_issued: '2021-12-12'
 identifiers:
   gutenberg: '66935'
